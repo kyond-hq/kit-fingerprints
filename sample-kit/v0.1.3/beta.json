@@ -1,0 +1,23 @@
+{
+  "blocks": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "c90939d25bf76bd8a6a25b09d7b5b7322d54a67e20b1ce0dde088c416b4326c4"
+    }
+  ],
+  "commit": "68124fb4aa415c991302a6b0a25026a7ed87b373",
+  "files": [
+    {
+      "path": ".agents/bin/run.sh",
+      "sha256": "3ab9f954e88d36b7dd4e4d07f010d4dbe7bcbb5899b38945a22de7673444b68c"
+    },
+    {
+      "path": ".agents/rules/beta.md",
+      "sha256": "a46d0a4f4985c8745418e42ca80d50b2a186e1fe223cd86056a65aa6e7afbaea"
+    }
+  ],
+  "kit": "sample-kit",
+  "status": "active",
+  "target": "beta",
+  "version": "v0.1.3"
+}
