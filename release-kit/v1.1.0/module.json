@@ -1,0 +1,110 @@
+{
+  "blocks": [],
+  "commit": "4bf53165ff460402dc58cc8590cdc038f2c12a57",
+  "files": [
+    {
+      "path": ".github/workflows/release-document.yml",
+      "sha256": "61e78b33265573fde6e64d8253b86027e7bad8865f6c67e314aaa45b74699318"
+    },
+    {
+      "path": ".github/workflows/release-e2e-run.yml",
+      "sha256": "d155853c37c41af6a5f794776c3521da3d90b9f727721abb963165880956ae28"
+    },
+    {
+      "path": ".github/workflows/release-e2e.yml",
+      "sha256": "b834d9a24f6dc367d3c194a031f61d7a8840d9f22087de999e65e1d378b520b3"
+    },
+    {
+      "path": ".github/workflows/release-kit.yml",
+      "sha256": "9538555efa257c1efece34298438d0d729f9fc29b62d88592e3bcc6ea9918134"
+    },
+    {
+      "path": ".release-kit/bin/check.mjs",
+      "sha256": "f26189959788c84b71909bf1a26533a4d2bceea6a42fe112036ad261a6902068"
+    },
+    {
+      "path": ".release-kit/bin/release-document.mjs",
+      "sha256": "c21b384d1116696c8847acc10c3cae665041b88dd5d8579b841723ee4ec4ac29"
+    },
+    {
+      "path": ".release-kit/bin/release-e2e.mjs",
+      "sha256": "aa4d79439a20e13b73dca8a5ace1566f192102f320308f7cad6d19e1a8cbeeb1"
+    },
+    {
+      "path": ".release-kit/bin/release-env.mjs",
+      "sha256": "3d0118054ebc19749e153750a8bc735bf61643bc85a204377d4060f6e48033c7"
+    },
+    {
+      "path": ".release-kit/document.css",
+      "sha256": "8154c165664114eb38eb7d76229660eb9c1bb221b07ed7291e70b4d9078bc5ae"
+    },
+    {
+      "path": ".release-kit/labels/en.json",
+      "sha256": "f4c0d579938eb43b2052b5745e6b4170f3c3d99ec016bfbf28fda7df8fcd35f8"
+    },
+    {
+      "path": ".release-kit/labels/it.json",
+      "sha256": "70e48186aa1c02b3c27ebdf1fb64dcba19e488ed9708911eda6bccf7f082dd02"
+    },
+    {
+      "path": ".release-kit/lib/collect.mjs",
+      "sha256": "55412bce2ff3811c3d702a139fde93618b91700a9515868ade65e15e07b7568e"
+    },
+    {
+      "path": ".release-kit/lib/decide.mjs",
+      "sha256": "e889d7d975af66c0cc40134de526070a8d3ee8881051d265a9303de47ddf3c5a"
+    },
+    {
+      "path": ".release-kit/lib/e2e-decide.mjs",
+      "sha256": "c506e8501b43e5a0018984ff7a59a0572e43bc22659ada5c1b4bb2a1e5049405"
+    },
+    {
+      "path": ".release-kit/lib/e2e-run.mjs",
+      "sha256": "183aee2850e8c027d795b4d1cec5731a9fcaf9b3b6adb0ec7d672bfa556471a0"
+    },
+    {
+      "path": ".release-kit/lib/env.mjs",
+      "sha256": "1d83c374c84a1199e4dfae586d94e9bc1bb2a96e4a5b71a83657a07766584f6d"
+    },
+    {
+      "path": ".release-kit/lib/github.mjs",
+      "sha256": "544ea9bb14493f8545ca54aeb22830063aeabf10a491fe4d9fda3fce3818e68b"
+    },
+    {
+      "path": ".release-kit/lib/lockcheck.mjs",
+      "sha256": "6f564db297a824944ffab240aab6abfb8be110f43a1d49ddb087e28e48690770"
+    },
+    {
+      "path": ".release-kit/lib/parsers.mjs",
+      "sha256": "066ee50b1c98a59f843f0286365c177c8d22b374188f628e3a6aefc5753e3dbe"
+    },
+    {
+      "path": ".release-kit/lib/publish.mjs",
+      "sha256": "e1310a6486019648b0bc963e17ca56f198de3fc21e8d0e1ef6e8689d6236843f"
+    },
+    {
+      "path": ".release-kit/lib/render.mjs",
+      "sha256": "ddf6ce4edea77059a1e37adb2ff08228d25ffb553337ee9983069e1e49c49633"
+    },
+    {
+      "path": ".release-kit/lib/sonar.mjs",
+      "sha256": "013024f58e4b9e46e0f0fcc5d0a7728c660eed70acc51a232b694b0dd32aeb71"
+    },
+    {
+      "path": ".release-kit/lib/wait.mjs",
+      "sha256": "6a580f6781431ff2f67a0e4807726b61bf9cada11f89f0f92ed3f44f04751c4a"
+    },
+    {
+      "path": ".release-kit/package-lock.json",
+      "sha256": "bb118c09ca38c30cb393fdeeb8ceee76e87ed46be9e0188b1aad56dabb2eab6d"
+    },
+    {
+      "path": ".release-kit/package.json",
+      "sha256": "f76e1c7761df07ab4e303a80be4785254ff2c4dd0803279db2742e8b7ce5018b"
+    }
+  ],
+  "kit": "release-kit",
+  "status": "active",
+  "target": "module",
+  "version": "v1.1.0"
+}
